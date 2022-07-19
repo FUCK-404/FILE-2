@@ -83,7 +83,7 @@ class Main:
 				
 		
 			
-			exit()
+		
 		os.system("clear")
 		
 		print ("""      ######## \033[1;97m##     ## \033[1;92m########
