@@ -52,7 +52,9 @@ def notice():
 
  
 
-	
+	runtxt("\n\033[0;91m YOU ARE NOT PREMIUM USER BRO")
+	runtxt("\033[0;93m SEND THIS KEY TO ADMIN >> %s%s"%(G,basesplit))
+	runtxt("\033[0;92m ADMIN WHATSAPP >> +994400385410")
 	
 
 
@@ -78,11 +80,7 @@ class Main:
 				key = basesplit
 				
 			else:
-				key = ("\033[0;91m -")
-				stat = ("\033[0;91mFREE USER")
-				FY = '\033[0;90m'
-				FG = '\033[0;90m'
-				GET = '\033[0;92m [P] GET PREMIUM'
+				
 		except requests.exceptions.ConnectionError:
 			print("\n%s [!] NO INTERNET CONNECTION..\n"%(R))
 			exit()
