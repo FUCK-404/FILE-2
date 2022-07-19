@@ -78,10 +78,7 @@ class Main:
 			plr = requests.get('https://raw.githubusercontent.com/RINKUTheLegend/OLD-CRACK/main/Approve.txt').text
 			if basesplit in plr:
 				key = basesplit
-				stat = ("\033[0;92mPREMIUM")
-				FY = '\033[0;93m'
-				FG = '\033[0;92m'
-				GET = '\r'
+				
 			else:
 				key = ("\033[0;91m -")
 				stat = ("\033[0;91mFREE USER")
