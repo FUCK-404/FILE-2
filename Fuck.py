@@ -80,11 +80,6 @@ class Main:
 				key = basesplit
 				
 			else:
-				
-		
-			
-		
-		os.system("clear")
 		
 		print ("""      ######## \033[1;97m##     ## \033[1;92m########
          ##    \033[1;97m##     ## \033[1;92m##
