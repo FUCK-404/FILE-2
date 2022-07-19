@@ -81,7 +81,7 @@ class Main:
 				
 			else:
 				
-		except requests.exceptions.ConnectionError:
+		
 			print("\n%s [!] NO INTERNET CONNECTION..\n"%(R))
 			exit()
 		os.system("clear")
