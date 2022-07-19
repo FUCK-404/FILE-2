@@ -1,9 +1,9 @@
 # Fuck
 
-git clone https://github.com/RINKU-CYBER-404/Fuck/
+git clone https://github.com/RINKU-CYBER-404/FILE-2
 
 
-cd Fuck
+cd FILE-2
 
 
 python Fuck-Mahsin.py
