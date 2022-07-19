@@ -82,7 +82,7 @@ class Main:
 			else:
 				
 		
-			print("\n%s [!] NO INTERNET CONNECTION..\n"%(R))
+			
 			exit()
 		os.system("clear")
 		
